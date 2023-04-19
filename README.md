@@ -24,7 +24,7 @@ We have added some dummy projects in our repository to help newbies to get start
     <li>Frontend Authentication of DApps</li>
     <li>Moralis Backend Cloud Functins</li>
     <li>Swap Example in Moralis</li>
-    <li>User Interface of DApps built with Moralis</li>
+    <li>Building UI using Moralis</li>
 </ol>
 
 #### For more information click on the examples given above.
